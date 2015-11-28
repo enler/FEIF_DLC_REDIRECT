@@ -112,7 +112,5 @@ sprintf_sAddress:
 .global FsuHandleRef;
 FsuHandleRef:
 .word 0x006DD2C0
-@ bssµÿ÷∑ 0x781038
-@ codeµÿ÷∑ 0x6108E8
 
 #endif
